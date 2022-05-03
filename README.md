@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @lroethan
 - 👀 I’m interested in Database/Spatio-temporal Data Management
-- 🌱 I’m currently learning database
-- 💞️ I’m looking to collaborate on database
 - 📫 panethan28@gmail.com
 
 <!---
