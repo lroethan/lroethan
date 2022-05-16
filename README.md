@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @lroethan
-- 👀 I’m interested in Database/Spatio-temporal Data Management
-- 📫 panethan28@gmail.com
+- 👋 Here, Zhicheng Pan (Ethan). Please teach me database, Okay?
 
 <!---
 lroethan/lroethan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
