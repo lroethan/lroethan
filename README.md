@@ -2,7 +2,7 @@
 
 <p>
   
-Hey 👋, I am **Ethan**, a Ph.D candidate in [DaSE@ECNU](http://dase.ecnu.edu.cn/) and a member of [dase955](https://github.com/dase955). I am currently learning databases and will delve into modern issues related to databases (e.g., **AI4DB**). Before I met databases, my main research interest was **real-time spatio-temporal data management**. I also worked as a Data Dev intern in Taobao and a Research intern in Alibaba Cloud, respectively. Finally, share one of my favorite lines: *Do not go gentle into that good night.*  ✨
+Hey 👋, I am **Ethan**, a Ph.D candidate in [DaSE@ECNU](http://dase.ecnu.edu.cn/) and a member of [dase955](https://github.com/dase955). I am currently learning databases and will delve into modern issues related to databases (e.g., **AI4DB**). Before I met databases, my main research interest was **real-time spatio-temporal data management**. Besides, I worked as a Data Dev intern in Taobao and a Research intern in Alibaba Cloud, respectively. Finally, share one of my favorite lines: *Do not go gentle into that good night.*  ✨
 
 
 
@@ -13,7 +13,7 @@ Hey 👋, I am **Ethan**, a Ph.D candidate in [DaSE@ECNU](http://dase.ecnu.edu.c
 - 🌱 My hobbies range from Fitness 🏋🏻, Reading 📕 and Series 📺
 - 🗂︎ My publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=t9bJRIQAAAAJ).
 - 💬 Feel free to ask me anything about **Database, Spatio-temporal data management** and **Stream Processing**.
-- 📮 Reach me out at zcpan@stu.ecnu.edu.cn (ECNU) or zhicheng.pan@pingcap.com (PingCAP)
+- 📮 Reach me out at zcpan@stu.ecnu.edu.cn
 
 Last but not least, I will appreciate a lot if you can give me some suggestions on database research.
 
