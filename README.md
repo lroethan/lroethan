@@ -2,7 +2,7 @@
 
 <p>
   
-Hey 👋, I am **Ethan**, a Ph.D candidate in [DaSE@ECNU](http://dase.ecnu.edu.cn/) and a member of [dase955](https://github.com/dase955). I am currently learning databases and will delve into modern issues related to databases (e.g., **AI4DB**). Before I met databases, my main research interest was **real-time spatio-temporal data management**. Besides, I worked as a Data Dev intern in Taobao and a Research intern in Alibaba Cloud, respectively. Finally, share one of my favorite lines: *Do not go gentle into that good night.*  ✨
+Hey 👋, I am **Ethan**, a Ph.D. candidate in [DaSE@ECNU](http://dase.ecnu.edu.cn/) and a member of [dase955](https://github.com/dase955). I am currently learning databases and will delve into modern issues related to databases (e.g., **AI4DB**). Before I met databases, my main research interest was **real-time spatio-temporal data management**. Besides, I worked as a Data Dev intern in Taobao and a Research intern in Alibaba Cloud, respectively. Finally, share one of my favorite lines: *Do not go gentle into that good night.*  ✨
 
 
 
