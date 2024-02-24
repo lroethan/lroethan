@@ -13,7 +13,7 @@ Hey 👋, I am **Ethan**, a Ph.D. candidate in [DaSE@ECNU](http://dase.ecnu.edu.
 - 🌱 My hobbies range from Fitness 🏋🏻, Reading 📕 and Series 📺
 - 🗂︎ My publications can be found at [Google Scholar](https://scholar.google.com/citations?hl=en&user=t9bJRIQAAAAJ).
 - 💬 Feel free to ask me anything about **Database, Spatio-temporal data management** and **Stream Processing**.
-- 📮 Reach me out at zcpan@stu.ecnu.edu.cn
+- 📮 Reach me out at zcpan (at) stu.ecnu.edu.cn
 
 
 
